@@ -56,17 +56,8 @@ public class Calculadora {
     public double sumar(){
        
         return  numero1 + numero2; 
-   }
-    
-    /**
-     *Metodo pra restar numero1 de numero2.
-     * @return
-     */
-    public double restar(){
-        
-        return numero1 - numero2;
-        
-    }
+
+
     
     /**
      *Metodo para multiplicar numero1 por numero2.
